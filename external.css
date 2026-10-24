@@ -1,7 +1,12 @@
-h2{
-    color: blanchedalmond;
+dev{
+    height: 200px;
+    width: 200px;
+
+}
+.b{
+    color: blueviolet;
+}
+.c{
+    color: brown;
 }
 
-label{
-    color: darkolivegreen;
-}

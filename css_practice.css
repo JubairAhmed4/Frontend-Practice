@@ -1,0 +1,58 @@
+body{
+    background-image:url(b5c59e4e-5c60-4b1d-93e1-82e7925e7c33.jpg);
+    background-repeat: no-repeat;
+   
+    background-size: cover;        
+    background-position: center;     
+    background-repeat: no-repeat;    
+    background-attachment: fixed;    
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+
+h1{
+    color: rgb(0, 214, 61);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    text-align:center;
+    background-image:url(c7f01661-8760-4516-88c2-2af2ac949737.jpg);
+    /* /* visibility:hidden; */
+    /* display: block; */
+    /* display:inline; */
+    display: inline-block;
+    border:15px;
+    padding:20px ;
+    border: 25px; ;
+    margin:30px;
+
+    /* box-sizing: content-box; border-box
+    height: 200px;
+    width: 100px; */
+
+}
+
+#OOO{
+    color: rgb(255, 146, 4);
+}
+
+#aaa{
+    color: chartreuse;
+}
+
+#xxx{
+    color: chartreuse;
+}
+
+
+.feedback{
+    color: coral;
+}
+
+
+*{
+    margin: 0px;
+    border: 0px;
+    box-sizing:border-box;
+}
